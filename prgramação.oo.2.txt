@@ -1,0 +1,36 @@
+Algoritmo Acordar
+   // Passo 1: abrir os olhos 
+
+   // Passo 2: deligar o despertador
+
+   // Passo 3: Levantar da cama
+   Levantar da cama
+
+   // Passo 4: andar ate o banheiro 
+
+   // Passo 5: abrir a porta 
+
+   // Passo 6: entrar no banheiro 
+
+   // Passo 7: Tomar fechar a porta 
+
+   // Passo 8: ligar a torneira
+
+   // Passo 9: lavar o rosto
+
+   // Passo 10:	escovar os dentes 
+
+   // Passo 11: desligar a torneira
+
+   // Passo 12: abrir a porta 
+   
+   // Passo 13: sair do banheiro 
+    
+   // Passo 14: ir ate o pc
+
+   // Passo 15: sentar na cadeira 
+
+   // Passo 16:ligar o pc
+
+   // Passo 17:entrar na plataforma da EBAC
+FimAlgoritmo
